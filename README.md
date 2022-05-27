@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hey there, I'm Sourab. I'm a AI/ML developer, . Check out my work](https://github.com/SourabHere/SourabHere/gifs/bio.gif)
+![Hey there, I'm Sourab. I'm a AI/ML developer, . Check out my work](https://github.com/SourabHere/SourabHere/gifs/ANN.gif)
