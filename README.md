@@ -1,7 +1,7 @@
 # Konichiwa!!, I'm Sourab 👋
 
 <p align="center"> 
-  <img alt="Sourab's profile" src="https://github.com/SourabHere/SourabHere/blob/main/gifs/wp6690890.jpg" width="800">
+  <img alt="Sourab's profile" src="https://github.com/SourabHere/SourabHere/blob/main/gifs/wp6690890.jpg" width="900" height="380">
 </p>
 
 <p align="center">
