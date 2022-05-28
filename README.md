@@ -1,6 +1,8 @@
 # Konichiwa!!, I'm Sourab 👋
 
-
+<p align="center"> 
+  <img alt="Sourab's profile" src="https://github.com/SourabHere/SourabHere/blob/main/gifs/wp6690890.jpg" width="800">
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;%20Data+Science%20|%20AI%20|%20ML%20Enthusiast;Full+Stack+Web+Developer(Django);Freelancer;Always%20learning%20new%20things&center=true&width=390&height=45"></a>
@@ -21,9 +23,7 @@
 - 👯 I’m looking to collaborate on: AI, Machine Learning, Deep learning and Web Dev projects.
 - 📫 How to reach me: sourabbeargrylls@gmail.com
 
-<!--  
- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
- -->
+
  
  <br>
  <br>
