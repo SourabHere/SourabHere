@@ -1,10 +1,10 @@
-# Hi there, I'm Sourab 👋
+# Konichiwa!!, I'm Sourab 👋
 
-<!-- ![Hey there, I'm Sourab. I'm a software developer, Data+Science | AI | ML Enthusiastic. Check out my work](https://github.com/SourabHere/SourabHere/blob/main/gifs/anngif.gif) -->
 
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer(Django);Freelancer;Data+Science%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p> -->
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;|Data+Science%20|%20AI%20|%20ML%20Enthusiast;Full+Stack+Web+Developer(Django);Freelancer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SourabHere.SourabHere)
@@ -18,13 +18,14 @@
 - 📝 I have a strong interest in Data Science and Artificial Intelligence.
 - 🔭 I’m currently working on Computer Vision, YOLO.
 - 🌱 I’m currently learning many things😂😂.
-- 👯 I’m looking to collaborate on: AI, Machine Learning, Deep learning and Django projects.
+- 👯 I’m looking to collaborate on: AI, Machine Learning, Deep learning and Web Dev projects.
 - 📫 How to reach me: sourabbeargrylls@gmail.com
 
 <!--  
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
  -->
  
+ <br>
  <br>
  
  ## 🛠️ My Favorite Tools 
@@ -89,6 +90,38 @@
 
  <br>
  
+## Connect with me:
+
+<p align = "center">
+
+<!-- [<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=skyblue" />](https://www.kaggle.com/sourabpaul)   -->
+  
+  <a href="https://www.linkedin.com/in/sourab-paul-95ba77220/">
+  <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png" />
+</a>
+  
+<a href="https://www.kaggle.com/sourabpaul">
+  <img align="left" src="https://github.com/SourabHere/SourabHere/blob/main/gifs/Kaggle_logo.png" width='85' height='48'>
+</a>
+  
+<a href="mailto:sourabbeargrylls@gmail.com">
+  <img align="left" src="https://img.icons8.com/color/48/000000/gmail.png" />
+</a>
+
+<a href="https://www.instagram.com/100rab__here/?hl=en">
+  <img align="left" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+</a>
+
+<a href="https://twitter.com/Sourab63373993">
+  <img align="left" src="https://img.icons8.com/color/48/4a90e2/twitter--v2.png"/>
+</a>
+</br>
+</br>
+  
+  
+</p> 
+
+<br>
  
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My GitHub stats
 <!--  <div align=center>
@@ -122,10 +155,14 @@
 
 
 <div align=center>
-</div>
-      
+</div>     
 
   <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SourabHere&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+
+<br>
+
 
