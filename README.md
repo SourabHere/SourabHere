@@ -123,7 +123,7 @@
 
 <br>
  
- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">My GitHub stats
+ ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> My GitHub stats
 <!--  <div align=center>
 </div>
 
