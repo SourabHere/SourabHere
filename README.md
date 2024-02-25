@@ -9,7 +9,7 @@
 
 <h1 align="center"> <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="30"> About me </h1>
 
-<img src="https://github.com/SourabHere/SourabHere/blob/main/gifs/meme1.jpg" alt="dev_object" align="right" width="350" />
+<img src="https://github.com/SourabHere/SourabHere/blob/main/gifs/slogan.jpg" alt="dev_object" align="right" width="350" />
 
 - 🎓 I’m currently a B.Tech(Computer Science & Engineering) student.
 - 💼 I’m currently working at FluxGen Technologies as Software Engineer.
@@ -82,17 +82,8 @@
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SourabHere&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
   </td>
 </tr>
 </table>
 
-
-
 <br>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SourabHere&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-<br>
-
-
