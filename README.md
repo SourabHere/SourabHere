@@ -11,8 +11,8 @@
 
 <img src="https://github.com/SourabHere/SourabHere/blob/main/gifs/slogan.jpg" alt="dev_object" align="right" width="350" />
 
-- 🎓 I’m currently a B.Tech(Computer Science & Engineering) student.
-- 💼 I’m currently working at FluxGen Technologies as Software Engineer.
+- 💼 I’m currently working at Natwest Group (RBS) as Software Engineer.
+- 🎓 I’m B.Tech(Computer Science & Engineering) graduate.
 - 🌱 I’m currently learning to tidy up my code and make it less of a mess 😂😂.
 - 👯 Open to collaboration on Fullstack Projects, especially those involving Python, Go, JavaScript, TypeScript, and more.
 - 📫 How to reach me: sourabpaul2002@gmail.com
